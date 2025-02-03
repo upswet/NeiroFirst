@@ -8,4 +8,11 @@ neiro2_layer_event
 neiro3_virual_process
 neiro4
 
-В качестве примера для статьи на хабре
+В качестве примера для статьи на хабре https://habr.com/ru/articles/878902/
+
+
+
+Разархивируйте архивы 
+NeiroFirst\java-neiro\src\main\resources\resources.zip  
+NeiroFirst\python-neiro\dataset\dataset.zip  
+перед начало работы
