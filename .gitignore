@@ -4,9 +4,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+.venv/
 *.csv
 *.mhtml
-*.pdf
+#*.pdf
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
